@@ -7,3 +7,26 @@ a.bouton {
 	width:max-content;
 	
 }
+
+.rightbox
+    {
+        float : right;
+        margin-left:20pt;
+    }
+
+
+.conteneur
+	{
+	  min-width: 800px;
+	  width:80%;
+	  text-align:justify;
+	  margin-left:auto; 
+	  margin-right:auto; 
+	  padding:10px 10px 10px 10px;
+	  background-color: rgb(245, 223, 223);
+	}
+
+body
+	{
+		background-color:rgba(58, 1, 1, 0.89);
+	}
